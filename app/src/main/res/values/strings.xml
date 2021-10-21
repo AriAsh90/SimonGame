@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimonGame2</string>
+    <string name="instructions">The device will create a series of tones and lights. You are required to repeat the sequence. If you succeed, the series will become progressively longer and more complex.
+        \nTo play, center the device (horizontal, face up) and then tilt your device in the desired direction.</string>
+</resources>

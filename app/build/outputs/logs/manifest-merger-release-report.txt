@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\8b9dc5add3d29da45d054494f3a754bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0318ea2dfbb857505034473397c24715\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\5a6872a48d504f7324ac1fee9b44dd71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\017cf714e03e629eef261c16170bc9db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\b8d731062a4b24c2a395e1fd73768bc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\7bae5f9614dae0532f819d6226387263\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8b5b7c8a638c93307d3ed0aa346db310\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\2dc6003a7fd22adf979d973a7f389e4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ab6d681b5b8291d9d71f30f7b00c112a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\ee9ebb0e35be4ebe670993885a15896c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\efe4893fb3a6a389f569bd65fb777830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\707f08c643103fea81b3a2a44279a270\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\177e7751445edd712aaf6d873752757d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\5b1598a19c7320bbb5a79f40a978e5da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\74d6d886ca71d13ce190663a74130146\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\5833b4800b2294df469707be2f89dadb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\0341de7e3565d92cc2de12a1141810b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbf87c984dbc3f3b65b60e10a641c1c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\9a08ef4178bf36c980c4adf6d29a4156\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\ea9d9cce5c811aff3cb29e9f4817c530\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\a81f01375781460356142610479075cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21958b06e8201e5ddd78085e95b81fd0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\94b68e9904961de3da7850715baac9b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\38d7e68e04f6790a9feee6c0f65b1eb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\bd62a7a7bf1a02b1bb7d33fe5c52b366\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0318ea2dfbb857505034473397c24715\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0318ea2dfbb857505034473397c24715\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\5833b4800b2294df469707be2f89dadb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\5833b4800b2294df469707be2f89dadb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:9:9-41
+	android:testOnly
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:7:9-33
+	android:roundIcon
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:12:9-40
+activity#azi.ari.simonapp1.MainActivity
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:17:27-74
+activity#azi.ari.simonapp1.GameOn
+ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml:20:19-41
+uses-sdk
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\8b9dc5add3d29da45d054494f3a754bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\8b9dc5add3d29da45d054494f3a754bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0318ea2dfbb857505034473397c24715\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\0318ea2dfbb857505034473397c24715\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\5a6872a48d504f7324ac1fee9b44dd71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\5a6872a48d504f7324ac1fee9b44dd71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\017cf714e03e629eef261c16170bc9db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\017cf714e03e629eef261c16170bc9db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\b8d731062a4b24c2a395e1fd73768bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\b8d731062a4b24c2a395e1fd73768bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\7bae5f9614dae0532f819d6226387263\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\7bae5f9614dae0532f819d6226387263\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8b5b7c8a638c93307d3ed0aa346db310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8b5b7c8a638c93307d3ed0aa346db310\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\2dc6003a7fd22adf979d973a7f389e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\2dc6003a7fd22adf979d973a7f389e4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ab6d681b5b8291d9d71f30f7b00c112a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\ab6d681b5b8291d9d71f30f7b00c112a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\ee9ebb0e35be4ebe670993885a15896c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\ee9ebb0e35be4ebe670993885a15896c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\efe4893fb3a6a389f569bd65fb777830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\efe4893fb3a6a389f569bd65fb777830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\707f08c643103fea81b3a2a44279a270\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\707f08c643103fea81b3a2a44279a270\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\177e7751445edd712aaf6d873752757d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\177e7751445edd712aaf6d873752757d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\5b1598a19c7320bbb5a79f40a978e5da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\5b1598a19c7320bbb5a79f40a978e5da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\74d6d886ca71d13ce190663a74130146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\74d6d886ca71d13ce190663a74130146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\cb5f3adc13910276439fb029bdcc118a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\5833b4800b2294df469707be2f89dadb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\5833b4800b2294df469707be2f89dadb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\0341de7e3565d92cc2de12a1141810b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\0341de7e3565d92cc2de12a1141810b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbf87c984dbc3f3b65b60e10a641c1c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cbf87c984dbc3f3b65b60e10a641c1c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\9a08ef4178bf36c980c4adf6d29a4156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\9a08ef4178bf36c980c4adf6d29a4156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\ea9d9cce5c811aff3cb29e9f4817c530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\ea9d9cce5c811aff3cb29e9f4817c530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\a81f01375781460356142610479075cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\a81f01375781460356142610479075cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21958b06e8201e5ddd78085e95b81fd0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21958b06e8201e5ddd78085e95b81fd0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\94b68e9904961de3da7850715baac9b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\94b68e9904961de3da7850715baac9b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\38d7e68e04f6790a9feee6c0f65b1eb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\38d7e68e04f6790a9feee6c0f65b1eb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\bd62a7a7bf1a02b1bb7d33fe5c52b366\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\AvishagA\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\bd62a7a7bf1a02b1bb7d33fe5c52b366\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AvishagA\Desktop\Android_2018\SimonGame2\app\src\main\AndroidManifest.xml

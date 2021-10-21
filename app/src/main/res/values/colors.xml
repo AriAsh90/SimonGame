@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cream">#E9E987</color>
+    <color name="red">#FF1010</color>
+    <color name="blue">#8810FF</color>
+    <color name="white_grey">#FFFFEE</color>
+
+    <color name="upNormal">#771010</color>
+    <color name="upPressed">#FF1010</color>
+    <color name="leftNormal">#107710</color>
+    <color name="leftPressed">#10FF10</color>
+    <color name="rightNormal">#101077</color>
+    <color name="rightPressed">#1010FF</color>
+    <color name="downNormal">#CDA810</color>
+    <color name="downPressed">#FFFF00</color>
+
+</resources>
